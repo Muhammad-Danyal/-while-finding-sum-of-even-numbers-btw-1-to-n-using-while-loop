@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1831
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "(while) finding sum of even numbers btw 1 to n", "(while) finding sum of even numbers btw 1 to n\(while) finding sum of even numbers btw 1 to n.vcxproj", "{FEA7EBB6-1541-48C5-97FA-BAAE30DF04D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEA7EBB6-1541-48C5-97FA-BAAE30DF04D9}.Debug|x64.ActiveCfg = Debug|x64
+		{FEA7EBB6-1541-48C5-97FA-BAAE30DF04D9}.Debug|x64.Build.0 = Debug|x64
+		{FEA7EBB6-1541-48C5-97FA-BAAE30DF04D9}.Debug|x86.ActiveCfg = Debug|Win32
+		{FEA7EBB6-1541-48C5-97FA-BAAE30DF04D9}.Debug|x86.Build.0 = Debug|Win32
+		{FEA7EBB6-1541-48C5-97FA-BAAE30DF04D9}.Release|x64.ActiveCfg = Release|x64
+		{FEA7EBB6-1541-48C5-97FA-BAAE30DF04D9}.Release|x64.Build.0 = Release|x64
+		{FEA7EBB6-1541-48C5-97FA-BAAE30DF04D9}.Release|x86.ActiveCfg = Release|Win32
+		{FEA7EBB6-1541-48C5-97FA-BAAE30DF04D9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3ED6761D-C495-44AB-9C76-FA434705B36E}
+	EndGlobalSection
+EndGlobal
